@@ -1,2 +1,2 @@
 # portfolio
-portfolio website : its not responsive!
+portfolio website : its not fully responsive!
